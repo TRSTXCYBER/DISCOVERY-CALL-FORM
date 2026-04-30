@@ -120,3 +120,4 @@ config.
 Mobile-first layout tested around 375 / 430 / 768 / 1024 / 1440 px. The form
 uses a comfortable max width on desktop (~42rem) rather than stretching.
 # DISCOVERY-CALL-FORM
+# DEAL-REGISTRATION-FORM
